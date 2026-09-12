@@ -77,7 +77,7 @@ Ce projet implémente une plateforme complète de comparaison entre les modèles
 
 ```bash
 # Cloner le repository
-git clone https://github.com/BenLe302/GPT-LLaMA-Text-Generation-Comparison.git
+git clone https://github.com/CyrilleAD/GPT-LLaMA-Text-Generation-Comparison.git
 cd GPT-LLaMA-Text-Generation-Comparison
 
 # Installer les dépendances
